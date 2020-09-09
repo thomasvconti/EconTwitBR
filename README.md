@@ -1,2 +1,2 @@
 # EconTwitBR
-Monthly data on influential Brazilian economists twitter activity
+Monthly data on influential Brazilian economists' twitter activity
